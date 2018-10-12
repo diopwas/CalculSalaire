@@ -1,3 +1,4 @@
+import unittest
 def calcul_salaire(metier,experience):
     if metier == 'Architecte' and experience == 4:
         return '4000'
